@@ -1,0 +1,124 @@
+성분이름 : Proximates, 넘버 : 951
+성분이름 : Water, 넘버 : 255
+성분이름 : Energy, 넘버 : 208
+성분이름 : Energy, 넘버 : 268
+성분이름 : Protein, 넘버 : 203
+성분이름 : Total lipid (fat), 넘버 : 204
+성분이름 : Ash, 넘버 : 207
+성분이름 : Carbohydrates, 넘버 : 956
+성분이름 : Carbohydrate, by difference, 넘버 : 205   
+성분이름 : Fiber, total dietary, 넘버 : 291
+성분이름 : Sugars, total including NLEA, 넘버 : 269  
+성분이름 : Sucrose, 넘버 : 210
+성분이름 : Glucose (dextrose), 넘버 : 211
+성분이름 : Fructose, 넘버 : 212
+성분이름 : Lactose, 넘버 : 213
+성분이름 : Maltose, 넘버 : 214
+성분이름 : Galactose, 넘버 : 287
+성분이름 : Starch, 넘버 : 209
+성분이름 : Minerals, 넘버 : 300
+성분이름 : Calcium, Ca, 넘버 : 301
+성분이름 : Iron, Fe, 넘버 : 303
+성분이름 : Magnesium, Mg, 넘버 : 304
+성분이름 : Phosphorus, P, 넘버 : 305
+성분이름 : Potassium, K, 넘버 : 306
+성분이름 : Sodium, Na, 넘버 : 307
+성분이름 : Zinc, Zn, 넘버 : 309
+성분이름 : Copper, Cu, 넘버 : 312
+성분이름 : Manganese, Mn, 넘버 : 315
+성분이름 : Selenium, Se, 넘버 : 317
+성분이름 : Fluoride, F, 넘버 : 313
+성분이름 : Vitamins and Other Components, 넘버 : 952 
+성분이름 : Vitamin C, total ascorbic acid, 넘버 : 401
+성분이름 : Thiamin, 넘버 : 404
+성분이름 : Riboflavin, 넘버 : 405
+성분이름 : Niacin, 넘버 : 406
+성분이름 : Pantothenic acid, 넘버 : 410
+성분이름 : Vitamin B-6, 넘버 : 415
+성분이름 : Folate, total, 넘버 : 417
+성분이름 : Folic acid, 넘버 : 431
+성분이름 : Folate, food, 넘버 : 432
+성분이름 : Folate, DFE, 넘버 : 435
+성분이름 : Choline, total, 넘버 : 421
+성분이름 : Betaine, 넘버 : 454
+성분이름 : Vitamin B-12, 넘버 : 418
+성분이름 : Vitamin B-12, added, 넘버 : 578
+성분이름 : Vitamin A, RAE, 넘버 : 320
+성분이름 : Retinol, 넘버 : 319
+성분이름 : Carotene, beta, 넘버 : 321
+성분이름 : Carotene, alpha, 넘버 : 322
+성분이름 : Cryptoxanthin, beta, 넘버 : 334
+성분이름 : Vitamin A, IU, 넘버 : 318
+성분이름 : Lycopene, 넘버 : 337
+성분이름 : Lutein + zeaxanthin, 넘버 : 338
+성분이름 : Vitamin E (alpha-tocopherol), 넘버 : 323
+성분이름 : Vitamin E, added, 넘버 : 573
+성분이름 : Tocopherol, beta, 넘버 : 341
+성분이름 : Tocopherol, gamma, 넘버 : 342
+성분이름 : Tocopherol, delta, 넘버 : 343
+성분이름 : Tocotrienol, alpha, 넘버 : 344
+성분이름 : Tocotrienol, beta, 넘버 : 345
+성분이름 : Tocotrienol, gamma, 넘버 : 346
+성분이름 : Tocotrienol, delta, 넘버 : 347
+성분이름 : Vitamin D (D2 + D3), International Units, 넘버 : 324        
+성분이름 : Vitamin D (D2 + D3), 넘버 : 328
+성분이름 : Vitamin K (phylloquinone), 넘버 : 430
+성분이름 : Vitamin K (Dihydrophylloquinone), 넘버 : 429
+성분이름 : Lipids, 넘버 : 950
+성분이름 : Fatty acids, total saturated, 넘버 : 606
+성분이름 : 4:0, 넘버 : 607
+성분이름 : 6:0, 넘버 : 608
+성분이름 : 8:0, 넘버 : 609
+성분이름 : 10:0, 넘버 : 610
+성분이름 : 12:0, 넘버 : 611
+성분이름 : 14:0, 넘버 : 612
+성분이름 : 15:0, 넘버 : 652
+성분이름 : 16:0, 넘버 : 613
+성분이름 : 17:0, 넘버 : 653
+성분이름 : 18:0, 넘버 : 614
+성분이름 : 20:0, 넘버 : 615
+성분이름 : 22:0, 넘버 : 624
+성분이름 : 24:0, 넘버 : 654
+성분이름 : Fatty acids, total monounsaturated, 넘버 : 645
+성분이름 : 14:1, 넘버 : 625
+성분이름 : 15:1, 넘버 : 697
+성분이름 : 16:1, 넘버 : 626
+성분이름 : 17:1, 넘버 : 687
+성분이름 : 18:1, 넘버 : 617
+성분이름 : 20:1, 넘버 : 628
+성분이름 : 22:1, 넘버 : 630
+성분이름 : Fatty acids, total polyunsaturated, 넘버 : 646
+성분이름 : 18:2, 넘버 : 618
+성분이름 : 18:3, 넘버 : 619
+성분이름 : 18:4, 넘버 : 627
+성분이름 : 20:2 n-6 c,c, 넘버 : 672
+성분이름 : 20:3, 넘버 : 689
+성분이름 : 20:4, 넘버 : 620
+성분이름 : 20:5 n-3 (EPA), 넘버 : 629
+성분이름 : 22:5 n-3 (DPA), 넘버 : 631
+성분이름 : 22:6 n-3 (DHA), 넘버 : 621
+성분이름 : Fatty acids, total trans, 넘버 : 605
+성분이름 : Cholesterol, 넘버 : 601
+성분이름 : Phytosterols, 넘버 : 636
+성분이름 : Amino acids, 넘버 : 500
+성분이름 : Tryptophan, 넘버 : 501
+성분이름 : Threonine, 넘버 : 502
+성분이름 : Isoleucine, 넘버 : 503
+성분이름 : Leucine, 넘버 : 504
+성분이름 : Lysine, 넘버 : 505
+성분이름 : Methionine, 넘버 : 506
+성분이름 : Cystine, 넘버 : 507
+성분이름 : Phenylalanine, 넘버 : 508
+성분이름 : Tyrosine, 넘버 : 509
+성분이름 : Valine, 넘버 : 510
+성분이름 : Arginine, 넘버 : 511
+성분이름 : Histidine, 넘버 : 512
+성분이름 : Alanine, 넘버 : 513
+성분이름 : Aspartic acid, 넘버 : 514
+성분이름 : Glutamic acid, 넘버 : 515
+성분이름 : Glycine, 넘버 : 516
+성분이름 : Proline, 넘버 : 517
+성분이름 : Serine, 넘버 : 518
+성분이름 : Alcohol, ethyl, 넘버 : 221
+성분이름 : Caffeine, 넘버 : 262
+성분이름 : Theobromine, 넘버 : 263
